@@ -28,7 +28,7 @@ After mastering the above technologies, I'm now focusing on:
 
 ### 📫 How to Reach Me
 - **Email:** ali7aggag@gmail.com
-- **LinkedIn:** [Ali Haggag on LinkedIn](www.linkedin.com/in/ali-haggag)
+- **LinkedIn:** [Ali Haggag on LinkedIn](https://www.linkedin.com/in/ali-haggag/)
 
 ### 💬 Let's Connect
 - **GitHub:** [AliHaggag11](https://github.com/AliHaggag11)
